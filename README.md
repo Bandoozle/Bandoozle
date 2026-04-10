@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Marco 👋
 
-<!--
-**Bandoozle/Bandoozle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS graduate from Simon Fraser University  
+Building AI-powered products and clean user experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- 🤖 AI / Machine Learning projects  
+- 🌐 Full-stack web apps (React, Next.js, Tailwind)  
+- 🧠 Turning ideas into real, usable products  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, JavaScript, TypeScript, C++  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** FastAPI, Node.js  
+**Tools:** Git, Firebase, Vercel  
+
+---
+
+## 📌 Current Focus
+- Building **Herd** – social platform for music reviews  
+- Exploring **AI + product design**  
+- Creating projects that solve real-world problems  
+
+---
+
+## 📈 Projects
+- 🧠 AI-powered medical image classification  
+- 🌐 Full-stack apps with real-time features  
+- 🎯 Interactive web experiences & product design  
+
+---
+
+## 📫 Connect With Me
+- 🌐 Portfolio: https://marcosuteja.com  
+- 💼 LinkedIn: linkedin.com/in/marcosuteja
+
+---
