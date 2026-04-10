@@ -36,6 +36,6 @@ Building AI-powered products and clean user experiences
 
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://marcosuteja.com  
-- 💼 LinkedIn: linkedin.com/in/marcosuteja
+- 💼 LinkedIn: https://linkedin.com/in/marcosuteja
 
 ---
